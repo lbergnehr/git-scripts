@@ -4,7 +4,6 @@
 Right now I use some git aliases that you might not have, namely:
 
 0. `git l` for `git log` with some switches.
-0. `git b` for `git branch`.
 
 Moreover the remote name is hard coded to *origin*.
 
